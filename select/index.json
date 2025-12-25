@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SAME SAME",
+  "base_artist": "STAYC",
+  "createdAt": "2025-12-25T02:00:44.822945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAME SAME",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_SAME_SAME_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAME SAME",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/02_SAME_SAME_STAYC.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Same Same",
+      "artist": "Ces Cru",
+      "has_synced": false,
+      "path": "select/03_Same_Same_Ces_Cru.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAME SAME",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/04_SAME_SAME_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAME SAME DIFFERENT - JP Ver.",
+      "artist": "CLASS:y",
+      "has_synced": true,
+      "path": "select/05_SAME_SAME_DIFFERENT_-_JP_Ver._CLASS_y.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SAME SAME DIFFERENT (JP Version)",
+      "artist": "CLASS:y",
+      "has_synced": true,
+      "path": "select/06_SAME_SAME_DIFFERENT_(JP_Version)_CLASS_y.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Same Same",
+      "artist": "Winston Surfshirt",
+      "has_synced": true,
+      "path": "select/07_Same_Same_Winston_Surfshirt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Same Same (Feat. SAM KIM)",
+      "artist": "Jukjae feat. Sam Kim",
+      "has_synced": true,
+      "path": "select/08_Same_Same_(Feat._SAM_KIM)_Jukjae_feat._Sam_Kim.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Same Same (Feat. SAM KIM)",
+      "artist": "JUKJAE",
+      "has_synced": true,
+      "path": "select/09_Same_Same_(Feat._SAM_KIM)_JUKJAE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Same Same but Different",
+      "artist": "FXTRT",
+      "has_synced": false,
+      "path": "select/10_Same_Same_but_Different_FXTRT.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SAME SAME DIFFERENT",
+      "artist": "TeenageGirls",
+      "has_synced": true,
+      "path": "select/11_SAME_SAME_DIFFERENT_TeenageGirls.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SAME SAME DIFFERENT (JP ver.)",
+      "artist": "CLASS:y",
+      "has_synced": true,
+      "path": "select/12_SAME_SAME_DIFFERENT_(JP_ver.)_CLASS_y.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Same Same",
+      "artist": "MOMOLAND",
+      "has_synced": true,
+      "path": "select/13_Same_Same_MOMOLAND.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Same Same",
+      "artist": "WAAX",
+      "has_synced": true,
+      "path": "select/14_Same_Same_WAAX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SAME SAME (SAME SAME)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/15_SAME_SAME_(SAME_SAME)_STAYC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAME SAME",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_SAME_SAME_STAYC.txt"
+    }
+  ]
+}
